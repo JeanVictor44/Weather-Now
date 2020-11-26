@@ -1,3 +1,5 @@
+Weather-Now foi codficado com o intuito de imergir-me no mundo do React e Styled-Components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
